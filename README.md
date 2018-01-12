@@ -59,3 +59,7 @@ $ docker run --rm -p 83:5000 blockchain
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+
+## Resources
+
+[Minimum Viable Block Chain](https://www.igvita.com/2014/05/05/minimum-viable-block-chain/)
